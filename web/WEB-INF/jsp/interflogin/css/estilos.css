@@ -1,0 +1,61 @@
+
+  /* Full-width inputs */
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  /* Set a style for all buttons */
+  button {
+    background-color: darkgrey;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    }
+  
+  
+  /* Center the avatar image inside this container */
+  .imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+  }
+  
+  /* Avatar image */
+  img.avatar {
+    width: 10%;
+    border-radius: 50%;
+  }
+  
+  /* Add padding to containers */
+ 
+
+  .containerT {
+    padding: 16px;
+    width: 30%;
+    position: absolute;
+    border: 3px solid #f1f1f1;
+  }
+  
+  .padre {
+    /*IMPORTANTE*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+  }
+  .hijo {
+    border: 3px solid #f1f1f1;
+    width: 30%;
+    padding: 16px;
+  }
+  a{
+      color: red;
+      }
